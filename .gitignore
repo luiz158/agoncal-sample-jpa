@@ -27,3 +27,5 @@ vpproject
 .lock
 teamworkUser.xml
 projectFilesBackup*
+*.zip
+*.gz

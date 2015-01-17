@@ -2,6 +2,7 @@
 
 Several samples about JPA : 
 
+* JMH : Samples about Java Micro Benchmarking
 * 01-QueryString : Display the JPQL and/or SQL query String of a JPA 2.0 Criteria Query
 * 02-LoadScriptSource : Integration tests with loading data (JPA 2.1)
 
